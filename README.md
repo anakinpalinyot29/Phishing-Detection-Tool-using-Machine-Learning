@@ -103,5 +103,8 @@ A simple FastAPI app is deployed for real-time predictions.
    ```bash
    git clone https://github.com/your-username/phishing-detector.git
 2. Install requirements:
- ```bash
+   ```bash
    pip install -r requirements.txt
+3. Run FastAPI app:
+   ```bash
+   uvicorn app.main:app --reload
