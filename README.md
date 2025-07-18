@@ -103,4 +103,5 @@ A simple FastAPI app is deployed for real-time predictions.
    ```bash
    git clone https://github.com/your-username/phishing-detector.git
 2. Install requirements:
-pip install -r requirements.txt
+ ```bash
+   pip install -r requirements.txt
