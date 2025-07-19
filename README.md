@@ -74,7 +74,7 @@ The system follows a structured machine learning workflow:
 
 🟢 Logistic Regression performs better and is recommended for deployment.
 
-📌 *You can add performance charts here (e.g., `images/accuracy_comparison.png`, `images/confusion_matrix.png`).*
+![Model Accuracy Comparison](images/accuracy_comparison.png)
 
 ---
 
@@ -82,7 +82,7 @@ The system follows a structured machine learning workflow:
 
 A simple FastAPI app is deployed for real-time predictions.
 
-📌 *Insert screenshots or GIF here: `images/demo.gif` or `images/ui.png`.*
+![Phishing Demo](images/phishing_demo.gif)
 
 ---
 
