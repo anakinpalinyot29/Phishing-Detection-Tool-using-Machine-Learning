@@ -31,7 +31,7 @@ Phishing is a widespread cybercrime tactic where attackers use fake websites or 
 The system follows a structured machine learning workflow:
 
 1. **Data Collection**  
-   - Over 500,000 labeled URLs from trusted datasets (e.g., Kaggle)
+   - Over 500,000 labeled URLs from trusted datasets (Kaggle)
 2. **Data Preprocessing**  
    - Regex-based tokenization and stemming using NLTK  
    - URL cleaning and standardization
