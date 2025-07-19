@@ -42,7 +42,7 @@ The system follows a structured machine learning workflow:
 5. **Model Deployment**  
    - FastAPI backend for easy integration
 
-📌 *Consider adding a flowchart or architecture diagram here (e.g., `images/pipeline.png`).*
+![Pipeline Diagram](images/pipeline.png)
 
 ---
 
